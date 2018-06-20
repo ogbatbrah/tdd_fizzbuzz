@@ -1,4 +1,7 @@
 def fizzbuzz()
-	fizzbuzz = [*1..100]
-	fizzbuzz[2] = mined
+	fizzarr = [*1..100]
+	fizzarr[2] = "mined"
+    fizzarr
 end
+
+
