@@ -1,3 +1,3 @@
 def fizzbuzz()
-	fizzbuzz = []
+	fizzbuzz = [*1..100]
 end
